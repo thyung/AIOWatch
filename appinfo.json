@@ -1,0 +1,37 @@
+{
+    "versionLabel": "1.0.0",
+    "uuid": "cb3c94f9-1fac-4948-9760-adfbd407ada5",
+    "appKeys": {
+        "dummy": 0
+    },
+    "longName": "AIOWatch",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "AIOWatch",
+    "companyName": "yungtinho@yahoo.com",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "type": "png",
+                "name": "IMAGE_BLUETOOTH_GREY",
+                "file": "images/bluetooth_grey2.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BLUETOOTH",
+                "file": "images/bluetooth.png"
+            },
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENUICON",
+                "file": "images/aiowatch_icon.png"
+            }
+        ]
+    }
+}
